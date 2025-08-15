@@ -124,7 +124,3 @@ kafka-topics.sh --create --topic my-topic --bootstrap-server localhost:9092 --pa
 * Spring Kafka manages consumer groups, offsets, and message conversion for you.
 
 ---
-
-If you want, I can give you an **end-to-end Spring Boot project** with `application.yml`, producer, consumer, and topic creation — so you can literally run it and see **partition-specific messaging** in action.
-Do you want me to prepare that next?
-
